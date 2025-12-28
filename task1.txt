@@ -1,2 +1,13 @@
 my my task in cicd pipeline 
 creating a file with cicd tasks 
+making chnage ovcer here 
+git init
+git  status
+git add .
+git commit -m "commit message"
+git remote add origin repo-url
+git push origin main
+------
+pull in the sense 
+pullling code from git repo to local machine 
+combines git fetch and git merge
